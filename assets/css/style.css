@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+}
+.header{
+    background-image: url("../img/foto1.jpg");
+    padding: 4em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+
+.header h1 {
+    color:black;
+    font-size: 4em;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header p{
+    color:black;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carta{
+    width: auto;
+    margin: auto;
+}
+.carta img{
+    width: 80%;
+}
+.carta td{
+    width: 20%;
+    padding-top: 2%;
+    padding-left: 18%;
+    padding-right: 0%;
+
+}
+
+.menu{
+    color: black;
+    text-align: left;
+    font-size: 1.4em;
+    padding: 0%;
+}
+
+.description_menu1{
+    color: black;
+    text-align: left;
+    font-size: 1.4em;
+    padding-right: 1em;
+    
+}
+.precio_menu1{
+    color: black;
+    text-align: left;
+    font-size: 1.4em;
+}
+
+.footer{
+    font-size: 2em;
+    background-color: chocolate;
+    text-align: center;
+}
